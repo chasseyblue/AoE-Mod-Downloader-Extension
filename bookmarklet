@@ -1,0 +1,4 @@
+javascript:(function() {
+let id = parseInt(location.pathname.match("([0-9]{1,5})")[0], 10); if (id === NaN) {return};
+fetch("https://mods.ageofempires.com/api/v1/mods/Download", {"credentials": "include", "headers": { "Content-Type": "application/json" }, "body": JSON.stringify({id, boolValue: true}), "method": "POST", "mode": "cors"}).then(r => r.json()).then(r => {location.href = r.value.downloadUrl}).catch(e => console.log(e));
+})()
