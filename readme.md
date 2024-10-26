@@ -1,14 +1,29 @@
-# AoE2 DE Mod downloader bookmarklet
+# # AoE2 DE Mod downloader Chrome Extension Fork
 
-TL;DR:
+Reinterpreted into a Chrome Extension for Microsoft Edge for ease of use and allowing on the fly changes by just pasting the mod ID into a text field and click the fetch mod button.
 
-  1. Make a new bookmark
-     * Copy the contents of the snippet below into location field for a new bookmark.
-     * Call bookmark whatever you want, I went with `AoE2 DE Mod DL`.
-  2. Make sure you are signed into the website (https://ageofempires.com/mods), if you aren't, the API will just reject your request.
-     * It's completely free and doesn't care if you own the game on that account.
-  3. Navigate to mod of your choice and click the bookmark.
-  4. Wait for a bit, the API tends to be slow...
-  5. You should get a download popup for mod's archive.
-  6. Extract archive into something like `C:\Users\YOUR USERNAME\Games\Age of Empires 2 DE\SOME NUMBERS\mods\local`
-     * For example I want x256 techs mod (mod id: 832), I would extract contents of the newly downloaded `aoe_832.zip` into folder `C:\Users\alyti\Games\Age of Empires 2 DE\1212112121212121212\mods\local\aoe_832`.
+# How to Install
+
+Developer Mode is required to be switched on in Manage Extensions as it's not a 'published' extension. Source code is supplied.
+
+ 1. Download the archive from the Releases (.zip)
+ 2. Within Windows Explorer:
+	 - Right click the AoE2DEModDExt.zip.
+	 - Use your favourite Archiving Program to 'Extract to...'
+ 3. Within Edge:
+ 4. **Pre-checks:**
+	 - Verify that "Developer Mode" switch is enabled.
+ 5. **Loading the extension:**
+	 - Click the 3 dots '...' on the right top corner > Extensions > Manage Extensions.
+	 - Click on "Load Unpacked Extension".
+	 - Use the OpenFile Dialog to navigate where you extracted the ZIP.
+	 - Open the folder so that the directory "images" can be seen.
+	 - Click the "Select Folder" button.
+
+# Screenshot
+![image](https://gist.github.com/user-attachments/assets/57fe1600-3264-40b2-82ef-34768254b774)
+
+
+# Credits
+Fork of: https://gist.github.com/alyti/24459f6e2d5eba2cab10aca27d29470b
+Backend code all credit to: https://gist.github.com/alyti
