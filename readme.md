@@ -10,6 +10,9 @@ Developer Mode is required to be switched on in Manage Extensions as it's not a 
  2. Within Windows Explorer:
 	 - Right click the AoE2DEModDExt.zip.
 	 - Use your favourite Archiving Program to 'Extract to...'
+	 - Create a new folder called images
+	 - Use any image that is a .png of 48x48px, and copy it 3 times
+	 - name each .png like (icon16.png, icon48.png, icon128.png).
  3. Within Edge:
  4. **Pre-checks:**
 	 - Verify that "Developer Mode" switch is enabled.
