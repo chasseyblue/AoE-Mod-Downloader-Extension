@@ -1,4 +1,4 @@
-# # AoE2 DE Mod downloader Chrome Extension Fork
+# AoE2 DE Mod downloader Chrome Extension Fork
 
 Reinterpreted into a Chrome Extension for Microsoft Edge for ease of use and allowing on the fly changes by just pasting the mod ID into a text field and clicking the fetch mod button.
 
