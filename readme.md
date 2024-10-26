@@ -29,4 +29,5 @@ Developer Mode is required to be switched on in Manage Extensions as it's not a 
 
 # Credits
 Fork of: https://gist.github.com/alyti/24459f6e2d5eba2cab10aca27d29470b
+
 Backend code all credit to: https://gist.github.com/alyti
