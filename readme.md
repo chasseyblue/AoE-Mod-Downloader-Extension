@@ -6,7 +6,7 @@ Reinterpreted into a Chrome Extension for Microsoft Edge for ease of use and all
 
 Developer Mode is required to be switched on in Manage Extensions as it's not a 'published' extension. Source code is supplied.
 
- 1. Download the archive from the Releases (.zip)
+ 1. Download the archive by clicking the Download ZIP option in this gist (.zip).
  2. Within Windows Explorer:
 	 - Right click the AoE2DEModDExt.zip.
 	 - Use your favourite Archiving Program to 'Extract to...'
