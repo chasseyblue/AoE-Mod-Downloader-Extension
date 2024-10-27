@@ -36,7 +36,7 @@ Developer Mode is required to be switched on in Manage Extensions as it's not a 
 
 # Installing mods:
 
-1. Within Windows Explorer, copy the extracted mod folder to: "C:\Users\$user\Games\Age of Empires 2 DE\\$accountID\mods\local".
+1. Within Windows Explorer, copy the extracted mod folder to: "C:\Users\\$user\Games\Age of Empires 2 DE\\$accountID\mods\local".
 - Replace $user with your current Windows username.
 - Replace $accountID with your current AoE account ID.
 - *These will be prefilled when traversing the directories.*
