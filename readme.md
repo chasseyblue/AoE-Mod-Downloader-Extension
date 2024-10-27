@@ -23,7 +23,8 @@ Developer Mode is required to be switched on in Manage Extensions as it's not a 
 	 - Click the "Select Folder" button.
 
 # Screenshot
-(![image]https://github.com/user-attachments/assets/2783af3a-b0df-46bd-abad-0e160c681df0)
+![image](https://github.com/user-attachments/assets/8636c540-7826-4262-ae52-34ceaf86806c)
+
 
 # Credits
 Backend code all credit to: https://gist.github.com/alyti
