@@ -1,18 +1,17 @@
 # AoE2 DE Mod downloader Chrome Extension Fork
 
 Reinterpreted into a Chrome Extension for Microsoft Edge for ease of use and allowing on the fly changes by just pasting the mod ID into a text field and clicking the fetch mod button.
+Fork of alyti's console code: https://gist.github.com/alyti/24459f6e2d5eba2cab10aca27d29470b
+Only difference here is a UI based approach as a Chromium Extension.
 
 # How to Install
 
 Developer Mode is required to be switched on in Manage Extensions as it's not a 'published' extension. Source code is supplied.
 
- 1. Download the archive by clicking the Download ZIP option in this gist (.zip).
+ 1. Download the archive from the releases on the right side of this repositrory. 
  2. Within Windows Explorer:
 	 - Right click the AoE2DEModDExt.zip.
 	 - Use your favourite Archiving Program to 'Extract to...'
-	 - Create a new folder called images
-	 - Use any image that is a .png of 48x48px, and copy it 3 times
-	 - name each .png like (icon16.png, icon48.png, icon128.png).
  3. Within Edge:
  4. **Pre-checks:**
 	 - Verify that "Developer Mode" switch is enabled.
@@ -24,10 +23,7 @@ Developer Mode is required to be switched on in Manage Extensions as it's not a 
 	 - Click the "Select Folder" button.
 
 # Screenshot
-![image](https://gist.github.com/user-attachments/assets/57fe1600-3264-40b2-82ef-34768254b774)
-
+(![image]https://github.com/user-attachments/assets/2783af3a-b0df-46bd-abad-0e160c681df0)
 
 # Credits
-Fork of: https://gist.github.com/alyti/24459f6e2d5eba2cab10aca27d29470b
-
 Backend code all credit to: https://gist.github.com/alyti
